@@ -1,0 +1,7 @@
+{
+  "name": "Copy of UroScan IoT Interface",
+  "description": "A clinical interface for a Raspberry Pi powered Urine Diagnosis Device.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
